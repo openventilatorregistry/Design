@@ -1,4 +1,4 @@
-# Wireframes
+# OVR Design Team
 
 ---
 
