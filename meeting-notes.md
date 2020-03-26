@@ -21,4 +21,9 @@
 #### Open Questions & Requests
 - Any new designs should be exported as Figma, AI or Sketch files. Standalone assets should be SVG, PNG, JPG depending on that particular need.
 
-#### Next Steps
+## Meeting notes (3/26/20)
+- just as a temporary design/wireframe, the current site is at ventilatorregistry.org (this does not need to be used, but alternative designs need to incorporate the same information)
+- we need to build consensus, preferably through voting and regular meetings (we will create a #meta or #updates channel for this purpose)
+- we should vote on a design direction to take (we'll have an 24 hour voting period to help coordinate things)
+- you can vote as long as you're active
+- we will start to assign work once a clear direction has been established
