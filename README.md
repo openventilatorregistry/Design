@@ -21,5 +21,8 @@
 - Respect boundaries
 - Any issues, contact the admin (@supernoir).
 
+## Link to Assets
+Main Design Doc (Figma) – [Link](https://www.figma.com/file/YPjGly6CjYs3JVNSqjbvqH/OVR_prototyping?node-id=127%3A0)
+
 ## Files
 If you'd like to add files to the repository, create a pull request
