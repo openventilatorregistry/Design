@@ -21,8 +21,11 @@
 - Respect boundaries
 - Any issues, contact the admin (@supernoir).
 
-## Link to Assets
+## Link to Assets, Reference
 Main Design Doc (Figma): https://www.figma.com/file/YPjGly6CjYs3JVNSqjbvqH/OVR_prototyping?node-id=127%3A0
+Landing Page Specs: https://github.com/openventilatorregistry/organization/blob/master/landing-page-information.rtf
+Organization Contributors and Roles: https://github.com/openventilatorregistry/organization/blob/master/organization.md
+User Stories: https://github.com/openventilatorregistry/organization/blob/master/user-stories.md
 
 ## Files
 If you'd like to add files to the repository, create a pull request
